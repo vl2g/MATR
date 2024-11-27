@@ -1,7 +1,7 @@
 # MATR: Aligning Moments in Time using Video Queries (CVPR 2025 Submission)
 
-[![paper](https://img.shields.io/badge/paper-paper-cyan)](https://github.com/vl2g/MATR/edit/main/README.md)
-[![Webpage](https://img.shields.io/badge/Webpage-green)](https://github.com/vl2g/MATR/edit/main/README.md)
+[![paper](https://img.shields.io/badge/paper-paper-cyan)](https://github.com/vl2g/MATR?tab=readme-ov-file)
+[![Webpage](https://img.shields.io/badge/Webpage-green)](https://github.com/vl2g/MATR?tab=readme-ov-file)
 
 ## Overview
 <p align="center">
