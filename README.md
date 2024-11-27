@@ -5,7 +5,7 @@
 
 ## Overview
 <p align="center">
-    <img src="assets/model.jpg" width="700px"/>
+    <img src="assets/model.png" width="700px"/>
 </p>
 
 This repo contains the code for training, inference, and evaluation of MATR, which implements a SOTA approach for video moment retrieval using video queries.
@@ -46,7 +46,7 @@ $ python eval.py
 
 ## Qualitative Results
 <p align="center">
-    <img src="assets/qual_res.jpg" width="700px"/>
+    <img src="assets/qual_res.png" width="700px"/>
 </p>
 
 # Acknoledgment
