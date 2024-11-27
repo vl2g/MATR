@@ -1,4 +1,12 @@
-# Code for MATR: Aligning Moments in Time using Video Queries (CVPR 2025 Submission)
+# MATR: Aligning Moments in Time using Video Queries (CVPR 2025 Submission)
+
+[![paper](https://img.shields.io/badge/paper-paper-cyan)](https://github.com/vl2g/MATR/edit/main/README.md)
+[![Webpage](https://img.shields.io/badge/Webpage-green)](https://github.com/vl2g/MATR/edit/main/README.md)
+
+## Overview
+<p align="center">
+    <img src="assets/model.jpg" width="700px"/>
+</p>
 
 This repo contains the code for training, inference, and evaluation of MATR, which implements a SOTA approach for video moment retrieval using video queries.
 
@@ -35,6 +43,11 @@ $ python inference.py
 # set the path and required parameters in the eval.py
 $ python eval.py
 ```
+
+## Qualitative Results
+<p align="center">
+    <img src="assets/qual_res.jpg" width="700px"/>
+</p>
 
 # Acknoledgment
 Our code base is built upon the following open-source codes
