@@ -33,6 +33,7 @@ $ bash train.sh
 
 
 ## Inference
+[checkpoint](https://drive.google.com/file/d/1C2sKb_JGPY2ho8aM7Lz_4UC2_anP6Stt/view?usp=drive_link)
 ```
 # set the path and required parameters in the inference.py
 $ python inference.py
