@@ -1,4 +1,4 @@
-# MATR: Aligning Moments in Time using Video Queries (CVPR 2025 Submission)
+# MATR: Aligning Moments in Time using Video Queries (ICCV 2025 Submission)
 
 [![paper](https://img.shields.io/badge/paper-paper-cyan)](https://github.com/vl2g/MATR?tab=readme-ov-file)
 [![Webpage](https://img.shields.io/badge/Webpage-green)](https://github.com/vl2g/MATR?tab=readme-ov-file)
