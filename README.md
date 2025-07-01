@@ -50,8 +50,9 @@ $ python eval.py
     <img src="assets/qual_res.png" width="700px"/>
 </p>
 
-# Acknoledgment
+# Acknowledgement
 Our code base is built upon the following open-source codes
 1. https://github.com/showlab/UniVTG
 2. https://github.com/SamsungLabs/Drop-DTW
+3. https://github.com/jayleicn/moment_detr
 
