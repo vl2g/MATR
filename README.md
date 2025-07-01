@@ -26,6 +26,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Training 
+In order to train *MATR* on our proposed dataset or your own dataset please prepare your dataset annotations following the format in [data](./sportsmoments)
 ```
 # set the path and required parameters in the train.sh
 $ bash train.sh
