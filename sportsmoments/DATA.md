@@ -29,7 +29,7 @@ In order to train the model on our dataset, bring the `train` and `val` CSV file
     "saliency_scores": [[4, 4, 4], [4, 4, 4], [4, 4, 4], [4, 4, 4], [4, 4, 4], [4, 4, 4]]
 }
 ```
-`qid` corresponds to a query video paired with a reference video `vid`. Both of which are formatted as follows `{youtube_id}_{clas_id}_{idx}`.
+`qid` corresponds to a query video paired with a reference video `vid`. Both of which are formatted as follows `{youtube_id}_{class_id}_{idx}`.
 `duration` is an integer indicating the duration of this video.
 `relevant_windows` is the list of windows that localize the moment, each window has two numbers, one indicates the start time of the moment, another one indicates the end time. `relevant_clip_ids` is the list of ids to the segmented 2-second clips that fall into the moments specified by `relevant_windows`.
 
