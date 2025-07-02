@@ -59,4 +59,4 @@ Our codebase is built upon the following open-source repositories:
 
 ## Contact
 
-Please feel free to open an issue or email us at [kumar.204@iitj.ac.in](mailto:kumar.204@iitj.ac.in) / [agarwaluday@iitj.ac.in](mailto:agarwaluday@iitj.ac.in)
+Please feel free to open an issue or email us at [yogesh.mcs17.du@gmail.com](mailto:yogesh.mcs17.du@gmail.com) / [ndc.uday@gmail.com](mailto:ndc.uday@gmail.com)
