@@ -5,7 +5,7 @@ We present a novel fine-grained dataset for the task of Video-to-Video Moment Re
 
 We release all the Youtube Video IDs in the `vids.txt` file. For downloading the raw query and reference clips, please visit the following [link](https://drive.google.com/drive/u/1/folders/1o3g7PZp8Czp6HFkS97HcWsxrcRJLw3nO)
 
-Our annotation files consist of 3 splits : `train`, `val` and `test`. You can find the `train` file in the drive link above. Each file has the following fields :
+Our annotation files consist of 3 splits : `train`, `val` and `test`. You can find all the files in the drive link above. Each file has the following fields :
 ```
     "query_id": unique identifier for query video,  
     "reference_id": unique identifier for reference video, 
