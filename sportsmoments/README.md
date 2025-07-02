@@ -14,7 +14,9 @@ Our annotation files consist of 3 splits : `train`, `val` and `test` with the fo
     "action_class": integer representing the class id of the moment/action, 
     "reference_duration": duration of the reference video
 ```
-We release the `id_class_mapping.json` for mapping the `action_class` to its corresponding class name. In addition to the annotation files we also provide the visual captions  associated with each of the query videos [here](), if one wishes to evaluate `MATR` on textual queries.
+You can find the train.csv file in the drive link above.
+
+We release the `id_class_mapping.json` for mapping the `action_class` to its corresponding class name. In addition to the annotation files we also provide the visual captions associated with each of the query videos [here (https://drive.google.com/drive/u/1/folders/1o3g7PZp8Czp6HFkS97HcWsxrcRJLw3nO), if one wishes to evaluate `MATR` on textual queries.
 
 In order to train the model, bring the `train` and `val` CSV files in [JSON Line](https://jsonlines.org/) format, such that each row of the files can be loaded as a single `dict` in Python. Below is an example of the annotation:
 
