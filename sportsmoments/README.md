@@ -3,7 +3,7 @@
 
 We present a novel fine-grained dataset for the task of Video-to-Video Moment Retrieval (*Vid2VidMR*) which contains information about temporal segments pertaining to fine-grained actions and moments such as *cover drive*, *goal kick*, *ducking a bouncer* or *penalty*. 
 
-We release all the Youtube Video IDs in the `vids.txt` file. For downloading the raw query and reference clips, please visit the following [link]()
+We release all the Youtube Video IDs in the `vids.txt` file. For downloading the raw query and reference clips, please visit the following [link](https://drive.google.com/drive/u/1/folders/1o3g7PZp8Czp6HFkS97HcWsxrcRJLw3nO)
 
 Our annotation files consist of 3 splits : `train`, `val` and `test` with the following fields :
 ```
