@@ -24,6 +24,17 @@ $ conda install -c pytorch pytorch torchvision
 $ pip install -r requirements.txt
 ```
 
+## The dataset directory should have the following structure:
+```
+data/
+└── sportsmoment/
+    ├── metadata/
+    │   ├── train.jsonl
+    │   └── val.jsonl
+    ├── txt_clip/
+    └── vid_clip/
+```
+
 ## Training 
 In order to train *MATR* on our proposed dataset or your own dataset please prepare your dataset annotations following the format in [data](./sportsmoments)
 ```
