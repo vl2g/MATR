@@ -8,7 +8,7 @@
     <img src="assets/model.png" width="700px"/>
 </p>
 
-This repo contains the official code for training, inference, and evaluation of *MATR* from the *ICCV'25* paper ["Aligning Moments in Time using Video Queries"](https://drive.google.com/file/d/1GlaroeUz6uqOIV9SHz8yzx-zJzKfZKV_/view), which implements a SOTA approach for video moment retrieval using video queries.
+This repo contains the official code for training, inference, and evaluation of *MATR* from the *ICCV'25* paper ["Aligning Moments in Time using Video Queries"](https://drive.google.com/file/d/1GlaroeUz6uqOIV9SHz8yzx-zJzKfZKV_/view).
 
 ## To setup environment
 ```
@@ -56,6 +56,17 @@ Our codebase is built upon the following open-source repositories:
 1. https://github.com/showlab/UniVTG
 2. https://github.com/SamsungLabs/Drop-DTW
 3. https://github.com/jayleicn/moment_detr
+
+## Citation
+If you find this repo useful, please cite:
+```bibtex
+@inproceedings{kumar2024matr,
+  title={Aligning Moments in Time using Video Queries},
+  author={Yogesh Kumar, Uday Agarwal, Manish Gupta, Anand Mishra},
+  booktitle={International Conference on Computer Vision, ICCV},
+  year={2025},
+}
+```
 
 ## Contact
 
