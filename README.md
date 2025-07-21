@@ -24,7 +24,10 @@ $ conda install -c pytorch pytorch torchvision
 $ pip install -r requirements.txt
 ```
 
-## The dataset directory should have the following structure:
+
+## Training 
+In order to train *MATR* on our proposed dataset or your own dataset please prepare your dataset annotations following the format in [data](./sportsmoments).
+The dataset directory should have the following structure:
 ```
 data/
 └── sportsmoment/
@@ -35,8 +38,6 @@ data/
     └── vid_clip/
 ```
 
-## Training 
-In order to train *MATR* on our proposed dataset or your own dataset please prepare your dataset annotations following the format in [data](./sportsmoments)
 ```
 # set the path and required parameters in the train.sh
 $ bash train.sh
