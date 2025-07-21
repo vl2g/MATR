@@ -51,11 +51,7 @@ $ python eval.py
     <img src="assets/qual_res.png" width="700px"/>
 </p>
 
-# Acknowledgement
-Our codebase is built upon the following open-source repositories:
-1. https://github.com/showlab/UniVTG
-2. https://github.com/SamsungLabs/Drop-DTW
-3. https://github.com/jayleicn/moment_detr
+
 
 ## Citation
 If you find this repo useful, please cite:
@@ -67,6 +63,11 @@ If you find this repo useful, please cite:
   year={2025},
 }
 ```
+# Acknowledgement
+Our codebase is built upon the following open-source repositories:
+1. https://github.com/showlab/UniVTG
+2. https://github.com/SamsungLabs/Drop-DTW
+3. https://github.com/jayleicn/moment_detr
 
 ## Contact
 
