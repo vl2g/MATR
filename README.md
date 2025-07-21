@@ -66,7 +66,7 @@ $ python eval.py
 ## Citation
 If you find this repo useful, please cite:
 ```bibtex
-@inproceedings{kumar2024matr,
+@inproceedings{kumar2025matr,
   title={Aligning Moments in Time using Video Queries},
   author={Yogesh Kumar, Uday Agarwal, Manish Gupta, Anand Mishra},
   booktitle={International Conference on Computer Vision, ICCV},
