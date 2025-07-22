@@ -42,7 +42,8 @@ data/
     │   ├── train.jsonl
     │   └── val.jsonl
     ├── txt_clip/
-    └── vid_clip/
+    └── target_vid_clip/
+    └── query_vid_clip
 ```
 
 ```
