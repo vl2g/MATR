@@ -73,7 +73,7 @@ $ python eval.py
 
 
 ## Citation
-If you find this repo useful, please cite:
+If you find this work useful, please consider citing it as:
 ```bibtex
 @inproceedings{kumar2025matr,
   title={Aligning Moments in Time using Video Queries},
