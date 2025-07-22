@@ -30,20 +30,20 @@ In order to train *MATR* on our proposed dataset or your own dataset please prep
 The dataset directory should have the following structure:
 ```
 data/
-└── sportsmoment/
+├── sportsmoment/
+│   ├── metadata/
+│   │   ├── train.jsonl
+│   │   └── val.jsonl
+│   ├── txt_clip/
+│   ├── target_vid_clip/
+│   └── query_vid_clip/
+└── ActivityNet/
     ├── metadata/
     │   ├── train.jsonl
     │   └── val.jsonl
     ├── txt_clip/
-    └── target_vid_clip/
-    └── query_vid_clip
-    ├──ActivityNet/
-    ├── metadata/
-    │   ├── train.jsonl
-    │   └── val.jsonl
-    ├── txt_clip/
-    └── target_vid_clip/
-    └── query_vid_clip
+    ├── target_vid_clip/
+    └── query_vid_clip/
 ```
 
 ```
