@@ -36,6 +36,12 @@ data/
     │   └── val.jsonl
     ├── txt_clip/
     └── vid_clip/
+    ├──ActivityNet/
+    ├── metadata/
+    │   ├── train.jsonl
+    │   └── val.jsonl
+    ├── txt_clip/
+    └── vid_clip/
 ```
 
 ```
