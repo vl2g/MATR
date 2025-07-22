@@ -7,7 +7,7 @@
     <img src="assets/model.png" width="700px"/>
 </p>
 
-This repo contains the official code for training, inference, and evaluation of *MATR* from the *ICCV'25* paper ["Aligning Moments in Time using Video Queries"](https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf).
+This repository contains the official code for training, inference, and evaluation of *MATR* from the *ICCV'25* paper ["Aligning Moments in Time using Video Queries"](https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf).
 
 ## To setup environment
 ```
