@@ -77,7 +77,7 @@ If you find this work useful, please consider citing it as:
 ```bibtex
 @inproceedings{kumar2025matr,
   title={Aligning Moments in Time using Video Queries},
-  author={Yogesh Kumar, Uday Agarwal, Manish Gupta, Anand Mishra},
+  author={Yogesh Kumar and Uday Agarwal and Manish Gupta and Anand Mishra},
   booktitle={International Conference on Computer Vision, ICCV},
   year={2025},
 }
