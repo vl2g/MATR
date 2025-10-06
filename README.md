@@ -1,6 +1,6 @@
 # MATR: Aligning Moments in Time using Video Queries (ICCV 2025)
 
-[![ICCV2025](https://img.shields.io/badge/paper-paper-cyan)](https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf)
+[![ICCV2025](https://img.shields.io/badge/ICCCV-2025-cyan)](https://github.com/vl2g/MATR/blob/main/assets/kumar_iccv25.pdf)
 
 ## Overview
 <p align="center">
