@@ -2,7 +2,7 @@
 
 [![ICCV2025](https://img.shields.io/badge/ICCV-2025-cyan)](https://openaccess.thecvf.com/content/ICCV2025/papers/Kumar_Aligning_Moments_in_Time_using_Video_Queries_ICCV_2025_paper.pdf)
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=z97GIct5LlA)
-[![Slides](https://img.shields.io/badge/Slides-Presentation-orange)]([https://your_slide_link](https://docs.google.com/presentation/d/1SdCkEzDd6ZMl-Lo6qjrX6hJMEqeRYzCm/edit?slide=id.p1#slide=id.p1))
+[![Slides](https://img.shields.io/badge/Slides-Presentation-orange)](https://docs.google.com/presentation/d/1SdCkEzDd6ZMl-Lo6qjrX6hJMEqeRYzCm/edit?usp=sharing&ouid=117468169269896850957&rtpof=true&sd=true)
 [![arXiv](https://img.shields.io/badge/arXiv-2508.15439-b31b1b)](https://arxiv.org/pdf/2508.15439)
 
 
